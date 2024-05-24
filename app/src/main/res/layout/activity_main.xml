@@ -7,6 +7,14 @@
     android:gravity="center"
     tools:context=".MainActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sensor Values"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:id="@+id/tv_sensor_values"
+        />
 
 
 </LinearLayout>
